@@ -1,4 +1,4 @@
-# HR-Data Analytics
+# HR-Data Analytics Dashboard
 
 In today’s competitive business landscape, one of the key challenges organizations face is employee attrition. High turnover can significantly impact productivity, team morale, and overall business performance. To address this, we have developed an "HR Analytics Dashboard" that provides in-depth insights into attrition trends and their underlying causes.
 
